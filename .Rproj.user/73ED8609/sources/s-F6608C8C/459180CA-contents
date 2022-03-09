@@ -1,6 +1,5 @@
 name: "my-website"
 author: "Samuel Hardwick"
-output_dir: "docs"  
 output:  
   html_document:  
     theme: readable
