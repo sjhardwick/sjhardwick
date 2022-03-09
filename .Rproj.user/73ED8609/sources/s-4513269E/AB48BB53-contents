@@ -1,0 +1,14 @@
+name: "personal_website"
+author: "Samuel Hardwick"
+output:  
+  html_document:  
+    theme: journal
+    css: style.css
+navbar:
+  title: "Samuel Hardwick"
+  type: default
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
