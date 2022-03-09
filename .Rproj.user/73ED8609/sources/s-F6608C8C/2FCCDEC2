@@ -3,7 +3,7 @@
     "path": "C:/Users/Sam/Google Drive/PhD/sjhardwick/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4988739",
     "contents": "",
     "dirty": false,
     "created": 1646778963674.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,0",
+        "cursorPosition": "2,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1646726942,
+    "lastKnownWriteTime": 1646799741,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1646726942,
+    "last_content_update": 1646799741881,
     "read_only": false,
     "read_only_alternatives": []
 }
