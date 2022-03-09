@@ -1,19 +1,17 @@
 {
-    "id": "2FCCDEC2",
+    "id": "D245AEB2",
     "path": "C:/Users/Sam/Google Drive/PhD/sjhardwick/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1912444011",
     "contents": "",
     "dirty": false,
-    "created": 1646778963674.0,
+    "created": 1646797086646.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "8,0",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1646726942,
